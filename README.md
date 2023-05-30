@@ -8,7 +8,7 @@ Resources for reading about system design
 * [ ] [Google prep](https://github.com/mister0/How-to-prepare-for-google-interview-SWE-SRE)
 * [ ] [Design-Microservices-Architecture](https://github.com/mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles)
 * [ ] [Karan Pratap Singh](https://www.karanpratapsingh.com/courses/system-design)
-
+* [ ] [ByteByteGo](https://github.com/ByteByteGoHq/ml-bytebytego)
 
 ## Approach
 * **Be absolutely sure you understand the problem being asked**, clarify on the onset rather than assuming anything 
