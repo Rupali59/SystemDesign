@@ -9,6 +9,8 @@ Resources for reading about system design
 * [ ] [Design-Microservices-Architecture](https://github.com/mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles)
 * [ ] [Karan Pratap Singh](https://www.karanpratapsingh.com/courses/system-design)
 * [ ] [ByteByteGo](https://github.com/ByteByteGoHq/ml-bytebytego)
+* [ ] [Distributed System Patterns](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+
 
 ## Approach
 * **Be absolutely sure you understand the problem being asked**, clarify on the onset rather than assuming anything 
